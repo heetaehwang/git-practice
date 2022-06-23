@@ -2,7 +2,11 @@ team: :Panthers
 
 manager: Sebastian
 
+<<<<<<< HEAD
 Coach : Shirley
+=======
+Coach : Raymond
+>>>>>>> 7b7c5f8 (Edit Panthers:)
 members:
 -Violet
 -Stella
